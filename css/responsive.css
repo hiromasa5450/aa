@@ -57,12 +57,15 @@
   }
 
   .span-1,.span-2 {
-    font-size: 3px;
+    font-size: 11px;
   }
 
   .span-2-1 {
     display:none;
   }
+  
+  .second-text p {
+    font-size:13px;
 }
 
 @media(min-width:700px) and (max-width:1030px) {
